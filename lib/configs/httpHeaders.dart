@@ -1,0 +1,15 @@
+const httpHeaders = {
+  'Accept': 'application/json, text/plain, */*',
+  'Accept-Encoding': 'gzip, deflate, br',
+  'Accept-Language': 'en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+  'Connection': 'keep-alive',
+  'Content-Type': 'application/json',
+  'Cookie': 'GCID=69f0a05-32d8294-36ddd4d-c1368db; GRID=69f0a05-32d8294-36ddd4d-c1368db; _ga=GA1.2.814671546.1593259858; _gid=GA1.2.1128173612.1593259858; gksskpitn=e3cbd2da-8265-47a4-95e0-5c64e316c2d2; Hm_lvt_59c4ff31a9ee6263811b23eb921a5083=1593259873; LF_ID=1593259873056-7476632-2751573; Hm_lvt_022f847c4e3acd44d4a2481d9187f1e6=1593259873; _gat=1; Hm_lpvt_59c4ff31a9ee6263811b23eb921a5083=1593330914; Hm_lpvt_022f847c4e3acd44d4a2481d9187f1e6=1593330914; gk_process_ev={%22count%22:8%2C%22target%22:%22%22}; SERVERID=3431a294a18c59fc8f5805662e2bd51e|1593330914|1593330902',
+  'Host': 'time.geekbang.org',
+  'Origin': 'https://time.geekbang.org',
+  'Referer': 'https://time.geekbang.org/',
+  'Sec-Fetch-Dest': 'empty',
+  'Sec-Fetch-Mode': 'cors',
+  'Sec-Fetch-Site': 'same-origin',
+  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36',
+};
